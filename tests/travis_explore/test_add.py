@@ -1,3 +1,4 @@
+# coding: utf-8
 import pytest
 from travis_explore import my_add, inc
 
